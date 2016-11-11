@@ -12,7 +12,8 @@
   },
   "keywords": [
     "atom",
-    "jade"
+    "jade",
+    "pug"
   ],
   "author": "Tom Merrihew <tom.merrihew@gmail.com>",
   "license": "MIT",
