@@ -258,7 +258,7 @@
       }
     ]
   'tag-generic-attribute':
-    'match': '\\b([a-zA-Z\\-:]+)'
+    'match': '\\b([a-zA-Z_\\-:]+)'
     'name': 'entity.other.attribute-name.jade'
   'tag-stuff':
     'patterns': [
