@@ -5,6 +5,10 @@
 'name': 'Jade'
 'patterns': [
   {
+    'match': '\\#[a-zA-Z0-9_-]+'
+    'name': 'entity.other.attribute-name.id.jade'
+  }
+  {
     'captures':
       '1':
         'name': 'keyword.control.import.include.jade'
